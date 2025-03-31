@@ -1,3 +1,5 @@
+#Testando operadores matemáticos
+#Usando as 4 principais operações
 print("_______________________________")
 print("Operadores matemáticos")
 print("Informe dois números a calcular")

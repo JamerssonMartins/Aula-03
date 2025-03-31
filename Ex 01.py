@@ -1,3 +1,5 @@
+#Informando o nome, idade e salário do usuário:
+#Em seguida informando o percentual de aumento e salário pós aumento
 name = input("Qual o seu nome? ")
 age = int(input("Qual sua idade? "))
 salario = float(input("Qual seu salário? "))
